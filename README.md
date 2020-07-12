@@ -18,6 +18,7 @@
 - [React Hello World](https://reactjs.org/docs/hello-world.html)
 - [SASS](https://sass-lang.com/documentation)
 - [material-ui](https://material-ui.com/getting-started/installation/)
+- [Redux](https://redux.js.org/introduction/getting-started)
 
 ### Setup
 - install the packages by writing the command npm i (will install locally)
@@ -32,4 +33,4 @@
 
 
 ### UML
-<!-- ![UML](./UML/UML.png) -->
+![UML](./UML/UML-store.png)
