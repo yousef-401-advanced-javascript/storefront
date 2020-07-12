@@ -33,4 +33,4 @@
 
 
 ### UML
-![UML](./UML/UML-store.png)
+![UML](./UML/UML-store.PNG)
