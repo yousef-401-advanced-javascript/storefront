@@ -8,7 +8,7 @@
 - [submission PR](https://github.com/yousef-401-advanced-javascript/storefront/pull/2)
 - [GitHub actions](https://github.com/yousef-401-advanced-javascript/storefront/actions)
 - [GitHub deploy](https://yousef-401-advanced-javascript.github.io/storefront/)
-- [Netlify deploy](https://frosty-blackwell-5c8179.netlify.app/)
+- [Netlify deploy](https://clever-snyder-ad6d71.netlify.app/)
 
 #### Resources
 - React Bootstrap
