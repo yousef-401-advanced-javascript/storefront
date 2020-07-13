@@ -5,7 +5,7 @@
 ### Links and Resources
 
 #### Submission Request
-- [submission PR](https://github.com/yousef-401-advanced-javascript/storefront/pull/1)
+- [submission PR](https://github.com/yousef-401-advanced-javascript/storefront/pull/2)
 - [GitHub actions](https://github.com/yousef-401-advanced-javascript/storefront/actions)
 - [GitHub deploy](https://yousef-401-advanced-javascript.github.io/storefront/)
 - [Netlify deploy](https://frosty-blackwell-5c8179.netlify.app/)
@@ -25,12 +25,12 @@
 - start the app by writing npm start
 
 ### How to use the App
-<!-- - fill the form with your task and submit
-- you can check you task that you already did it 
-- you can delete the tasks 
-- you can hide the done tasks  -->
+- chose the category that you want to buy from. (that will show you the item that related to chosen category)
+- you can add any item to your cart .
+- the number of the item that selected will shown at the header.
+- you can open your cart to see the items
 
 
 
 ### UML
-![UML](./UML/UML-store.PNG)
+![UML](./UML/UML-store2.PNG)
