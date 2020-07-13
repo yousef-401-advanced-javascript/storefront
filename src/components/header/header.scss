@@ -13,7 +13,14 @@ body, html{
         padding: 1% 0;
         background-color: #484848;
         display: flex;
-        justify-content: center;
+        justify-content: space-around;
+
+        span{
+            a{
+                color: white;
+                text-decoration: none;
+            }
+        }
        
         h1{
             letter-spacing: 5px;
@@ -22,6 +29,9 @@ body, html{
     }
     main{
         //for the categories
+        .category-header{
+            font-size: 40px;
+        }
         h3 {
             text-align: center;
         }
@@ -53,17 +63,34 @@ body, html{
             display: flex;
             flex-direction: row;
             justify-content: space-evenly;
+            flex-wrap: wrap;
+        
+            
+            .one-product{
+                display: flex;
+                flex-direction: column;
+                margin-left: 20px;
+
+                width: 20%;
+                .buttons{
+                    display: flex; 
+                    flex-direction: row;
+                    justify-content: space-evenly;
+
+                               
+                }
+            }
         }
     }
     #footer{
         width: 100%;
         background-color: black;
         top: 100%;
-      
-            margin-top:auto; 
+        margin-top:auto; 
+        margin-top:100px;
          
-        // height: ;
         p{
+            margin-bottom: 0;
             color: white;
             text-align: center;
         }
